@@ -1,0 +1,6 @@
+hash: fac30708201071ca37d149944ce84d9a7ae4c96184302bd41019838a55b7974f
+updated: 2016-12-20T14:19:33.861316863+09:00
+imports:
+- name: github.com/google/gops
+  version: 8044fcee41ea721d7c12d9831945c925b98b6b76
+testImports: []

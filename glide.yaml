@@ -1,0 +1,3 @@
+package: github.com/oinume/go-tools
+import:
+- package: github.com/google/gops
